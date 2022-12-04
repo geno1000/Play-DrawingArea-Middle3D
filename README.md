@@ -3,8 +3,8 @@ Play-Drawing3D-AreaSimple
 플레이그라운드 : 심플한 면중심의 3D 드로잉
 
 ```text
-도구 : #Nomad
-활용 : #게임일러스트, #게임설정, #게임애니메이션
+도구 : Nomad
+활용 : GameArt, GameSheet, GameAnimation
 ```
 
 # :card_index_dividers: 공간물(Object)
