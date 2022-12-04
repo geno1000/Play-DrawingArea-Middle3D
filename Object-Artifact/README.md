@@ -6,5 +6,5 @@ Object > Artifact
 # 오브젝트 > 인공물 
 
 ## 표지판 (Sign)
-- [001. 돌과 표지판](/Object-Artifact/Sign-001.md)
+- [001. 돌과 이정표](/Object-Artifact/Sign-001.md)
 - 작성중
