@@ -11,7 +11,7 @@
 ```
 
 ## 2022-12-05
-![image](https://user-images.githubusercontent.com/77244047/205514903-d2068bb9-1ab6-447c-a875-fa1f482434a8.png)
+![image](https://user-images.githubusercontent.com/77244047/205515661-b6002245-196b-400e-9882-226c5fe57052.png)
 
 작업목록
 - 자료조사(완료)
